@@ -1,0 +1,6 @@
+package com.mvcapp.andrea.controller;
+
+@Controller
+public class HolaController {
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 11 resources" deleteContents="false" description="Delete 11 resources" element1="/learnmvc-api" element10="/learnmvc-task" element11="/learnmvc-test" element2="/learnmvc-api-test" element3="/learnmvc-base" element4="/learnmvc-biz" element5="/learnmvc-bundle" element6="/learnmvc-bundle-mock" element7="/learnmvc-parent" element8="/learnmvc-provider" element9="/learnmvc-provider-mock" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="11" stamp="1632922219274"/>
+</session>
