@@ -1,0 +1,9 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="java.util.Map"><rhs name\="java.util.HashMap"/></lhs><lhs name\="java.lang.Enum"><rhs name\="org.junit.jupiter.api.TestInstance$Lifecycle"/></lhs><lhs name\="java.lang.constant.Constable"><rhs name\="org.junit.jupiter.api.TestInstance$Lifecycle"/></lhs><lhs name\="co.edu.icesi.service.AutotransitionService"><rhs name\="co.edu.icesi.service.AutotransitionService"/></lhs><lhs name\="co.edu.icesi.model.Autotransition"><rhs name\="co.edu.icesi.model.Autotransition"/></lhs><lhs name\="co.edu.icesi.model.Epidemstatus"><rhs name\="co.edu.icesi.model.Epidemstatus"/></lhs><lhs name\="co.edu.icesi.model.Institution"><rhs name\="co.edu.icesi.model.Institution"/></lhs><lhs name\="co.edu.icesi.model.FevEventstatus"><rhs name\="co.edu.icesi.model.FevEventstatus"/></lhs><lhs name\="java.lang.Number"><rhs name\="java.math.BigDecimal"/></lhs><lhs name\="java.math.BigDecimal"><rhs name\="java.math.BigDecimal"/></lhs><lhs name\="co.edu.icesi.model.Precondition"><rhs name\="co.edu.icesi.model.Precondition"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.List"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="co.edu.icesi.model.Threshold"><rhs name\="co.edu.icesi.model.Threshold"/></lhs><lhs name\="co.edu.icesi.model.Localcondition"><rhs name\="co.edu.icesi.model.Localcondition"/></lhs></history>
+content_assist_number_of_computers=18
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=20
+spelling_locale_initialized=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

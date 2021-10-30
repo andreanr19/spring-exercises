@@ -1,0 +1,20 @@
+1617335246493	Rename local variable 'logicalOperator'
+1617395123722	Rename field 'localconditionRepositoryI'
+1617411660658	Copy package
+1617411676094	Delete element
+1617411891379	Rename package 'co.edu.icesi.model'
+1617411949875	Rename package 'co.edu.icesi.repository'
+1617411957980	Rename package 'co.edu.icesi.service'
+1617412235320	Rename package 'co.edu.icesi.boot.model'
+1617412242468	Rename package 'co.edu.icesi.boot.repository'
+1617412248587	Rename package 'co.edu.icesi.boot.service'
+1617413757490	Delete element
+1617413767471	Delete element
+1617413782081	Delete element
+1617414919015	Copy compilation unit
+1617415004264	Rename type 'FernandezDanielTaller1Application2'
+1617415116417	Delete element
+1617415678310	Rename type 'FernandezDanielTaller1ApplicationTests'
+1617415682873	Copy compilation unit
+1617415692854	Rename type 'FernandezDanielTaller1ApplicationUnitTests2'
+1617419287603	Delete element

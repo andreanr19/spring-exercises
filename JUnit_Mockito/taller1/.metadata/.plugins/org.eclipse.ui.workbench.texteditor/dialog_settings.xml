@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value=""/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="true"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="delete"/>
+			<item value="autotransitionId"/>
+			<item value="0l"/>
+			<item value="boot"/>
+			<item value="FernandezDanielTaller1Application"/>
+			<item value="FernandezDanielTaller1ApplicationTests"/>
+			<item value="inst"/>
+			<item value="institution"/>
+			<item value="Institution"/>
+			<item value="autotranLogicaloperand"/>
+			<item value="logical"/>
+			<item value="conditional"/>
+			<item value="cond"/>
+			<item value="thresValuetype"/>
+			<item value="aut"/>
+		</list>
+		<list key="replacehistory">
+			<item value="localcon"/>
+			<item value="localcondition"/>
+			<item value="Localcondition"/>
+			<item value="thr"/>
+			<item value="threshold"/>
+			<item value="Threshold"/>
+			<item value="thresholdRepository"/>
+			<item value="thresholdRepositoryI"/>
+			<item value="ThresholdRepositoryI"/>
+			<item value="thresholdService"/>
+			<item value="ThresholdService"/>
+			<item value="autotransitionService.findById(0l).get()"/>
+			<item value="pre"/>
+			<item value="Precondition"/>
+			<item value="preconditionRepository"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="1018"/>
+		<item key="DIALOG_Y_ORIGIN" value="75"/>
+		<item key="DIALOG_WIDTH" value="348"/>
+		<item key="DIALOG_HEIGHT" value="437"/>
+		<item key="DIALOG_FONT_NAME" value="1|Ubuntu|11.0|0|GTK|1|"/>
+	</section>
+</section>

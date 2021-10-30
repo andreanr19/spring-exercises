@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=fernandez-daniel-taller1
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.bootVersion=2.4.4
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.description=Taller 1 Computacion en Internet
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.groupId=co.edu.icesi
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.javaVersion=11
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.language=java
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=fernandez-daniel-taller1
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packageName=co.edu.icesi.boot
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packaging=jar
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.type=MAVEN
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.version=0.0.1-SNAPSHOT
+org.springframework.ide.eclipse.boot.wizard.initializr.url=https\://start.spring.io\n

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;fernandez-daniel-taller1&apos; to &apos;fernandez-daniel-taller1-modificado-a-ver-si-trabaja-sin-implementar-los-repos&apos;&#x0A;- Original element: &apos;fernandez-daniel-taller1&apos;&#x0A;- Renamed element: &apos;fernandez-daniel-taller1&apos;&#x0A;- Update references to refactored element" description="Rename Java project &apos;fernandez-daniel-taller1&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=fernandez-daniel-taller1" name="fernandez-daniel-taller1-modificado-a-ver-si-trabaja-sin-implementar-los-repos" references="true" stamp="1617740089992" version="1.0"/>
+</session>
