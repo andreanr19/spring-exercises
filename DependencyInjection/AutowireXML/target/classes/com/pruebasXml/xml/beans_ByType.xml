@@ -1,0 +1,14 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+http://www.springframework.org/schema/beans/spring-beans.xsd">
+	<!-- All your bean and its configuration metadata goes here -->
+
+
+	<bean id="emailService" class="com.AutowireXML_ByType.beans.EmailService">
+	
+	</bean>
+	
+	<bean id="hrService"
+	class="com.AutowireXML_ByType.beans.HRService" autowire="byType"></bean>
+</beans>

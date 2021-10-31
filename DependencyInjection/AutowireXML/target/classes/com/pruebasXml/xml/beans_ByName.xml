@@ -1,0 +1,14 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+http://www.springframework.org/schema/beans/spring-beans.xsd">
+	<!-- All your bean and its configuration metadata goes here -->
+
+
+	<bean id="userService" class="com.AutowireXML_ByName.beans.UserService">
+	
+	</bean>
+	
+	<bean id="accountService"
+	class="com.AutowireXML_ByName.beans.AccountService" autowire="byName"></bean>
+</beans>

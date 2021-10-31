@@ -1,0 +1,20 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+http://www.springframework.org/schema/beans/spring-beans.xsd">
+	<!-- All your bean and its configuration metadata goes here -->
+
+	<bean id="employeeService"
+		class="com.DIFactoryNon_Static.beans.EmployeeService">
+	</bean>
+	
+	<bean id= "developerBean"
+		factory-method="getEmployee"
+		factory-bean="employeeService">
+		<constructor-arg value= "developer"></constructor-arg>
+	</bean>
+	
+	<bean id= "salaryService" class ="com.DIFactoryNon_Static.beans.SalaryService">
+	<property name="employee" ref="developerBean"></property>
+	</bean>
+</beans>
