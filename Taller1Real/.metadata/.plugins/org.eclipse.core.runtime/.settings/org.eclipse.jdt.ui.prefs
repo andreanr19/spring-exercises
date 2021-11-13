@@ -1,5 +1,5 @@
-content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"/>
-content_assist_number_of_computers=15
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="co.edu.icesi.model.Productsubcategory"><rhs name\="co.edu.icesi.model.Productsubcategory"/></lhs><lhs name\="co.edu.icesi.model.Productcategory"><rhs name\="co.edu.icesi.model.Productcategory"/></lhs><lhs name\="co.edu.icesi.model.Unitmeasure"><rhs name\="co.edu.icesi.model.Unitmeasure"/></lhs><lhs name\="co.edu.icesi.model.Transactionhistory"><rhs name\="co.edu.icesi.model.Transactionhistory"/></lhs></history>
+content_assist_number_of_computers=18
 content_assist_proposals_background=255,255,255
 content_assist_proposals_foreground=0,0,0
 eclipse.preferences.version=1
